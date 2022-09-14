@@ -2,9 +2,10 @@
 Simple little program to display your IP address in a meaningful uncluttered format.
 
 ## Building
-
+```
 gcc ipaddr.c -o ipaddr
 sudo cp ./ipaddr /usr/local/bin
+```
 
 ## Execute
 
