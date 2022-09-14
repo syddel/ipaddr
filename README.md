@@ -25,3 +25,4 @@ IPv6 ADDRESSES:
 lo         ::1
 enp4s0f3u2 fa80::8262:87bf:ab3:e437%enp4s0f3u2
 wlp3s0     fd80::4e6d:ade7:fda2:e813%wlp3s0
+```
