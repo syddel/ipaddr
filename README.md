@@ -3,8 +3,8 @@ Simple little program to display your IP address in a meaningful uncluttered for
 
 ## Building
 ```
-gcc ipaddr.c -o ipaddr
-sudo cp ./ipaddr /usr/local/bin
+$ gcc ipaddr.c -o ipaddr
+$ sudo cp ./ipaddr /usr/local/bin
 ```
 
 ## Execute
